@@ -1,0 +1,7 @@
+Shaders 4.0.2 — Shader Effects Inc.
+MIT license: shaders-LICENSE.txt
+Source: https://github.com/shader-effects-inc/shaders
+Package: https://registry.npmjs.org/shaders/-/shaders-4.0.2.tgz
+Registry SHA-512: lzovcl224xB0JIyqHgs3EClU/uOBYKLrai6lFaYMf4O46BanPDTvBJ3fN2cuwyCLfYlgZ8pLk+kMqGT7JS8oYw==
+Self-contained JavaScript bundle; ClipDeck uses an original single-layer Swirl configuration.
+Bundled dependency licenses: typegpu-LICENSE.txt, colorjs.io-0.5.2-LICENSE.txt, tinyest-0.3.2-LICENSE.txt, typed-binary-4.3.3-LICENSE.txt, tsover-runtime-0.0.7-LICENSE.txt.
